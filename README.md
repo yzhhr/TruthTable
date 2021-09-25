@@ -5,3 +5,4 @@ A bonus hw
 
 Compile `play.cpp` with `g++ play.cpp -o play -std=c++11`. Then type expressions like `(pvq>r^p)=(q=r)`. You'll figure out what's going on.
 
+My cpp is good because I tried to do OOP (in an unprofessional level)!
