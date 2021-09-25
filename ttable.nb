@@ -1,0 +1,6 @@
+TruthTable[expr_, vars_] := (
+  X = BooleanTable[Append[vars, expr], vars];
+  X = Reverse[X];
+  PrependTo[X, Append[vars, expr]];
+  (X /. {True -> 1, False -> 0}) // MatrixForm
+  )
