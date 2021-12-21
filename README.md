@@ -1,5 +1,6 @@
 # TruthTable
-A bonus hw
+
+Generates a truth table of symbols and logical operations. A bonus hw of Discrete Mathematics in 2021 Fall.
 
 `play.cpp` is a too-long cpp code, while `ttable.nb` provides a neat mathematica implementation. However, the latter is not expected to be accepted by the teacher.
 
